@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "python-quiz",
+      "title": "Python Quiz",
+      "description": "Funções, listas e dicionários para criar um quiz interativo",
+      "path": "assignments/python-quiz",
+      "dueDate": "2026-12-01",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
