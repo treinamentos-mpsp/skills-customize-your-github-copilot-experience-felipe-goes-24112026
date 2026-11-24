@@ -1,5 +1,5 @@
 
-# 📘 Tarefa: Jogo da Forca
+# 📘 Assignment: Jogo da Forca
 
 ## 🎯 Objective
 
